@@ -1,0 +1,8 @@
+# Private project docs
+CLAUDE.md
+hiking_app_prd.md
+STEPS.md
+.claude/
+
+# ML training data (large binary files)
+hiking-app-data/data/images/
